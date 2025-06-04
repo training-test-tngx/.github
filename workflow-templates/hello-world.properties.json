@@ -1,0 +1,7 @@
+{
+    "name": "Thanh's first Workflow template",
+    "description": "hi ya 🚀",
+    "iconName": "octicon smiley",
+    "categories": ["C#"],
+    "filePatterns": ["*.sln"]
+}
